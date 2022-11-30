@@ -10,6 +10,6 @@ I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
 
-
+![screenshot of myPortfolio](/images/portfolioScreenshot.jpg)
 
 link to portfolio:  https://vhs35.github.io/my-portfolio/
