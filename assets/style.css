@@ -153,7 +153,12 @@ main {
         margin-top: 5px;
 }
 
-
+#movieapp {
+  width: 300px; 
+  height: 337px; 
+  object-fit: cover; 
+  object-position: 100% 0;
+}
 .contact-me {
     display:flex;
     align-items:center;
